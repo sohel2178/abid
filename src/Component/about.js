@@ -27,7 +27,7 @@ const About = () => {
                             </div>
                             <div id="collapseOne" className="panel-collapse collapse in" aria-expanded="true" role="button">
                                 <div className="panel-body">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos reici endis cum aliquid quam, consequatur, quisquam consectetur ccumsan ipsum velit culpa charms of pleasure of the moment.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos reici endis cum aliquid quam, consequatur, quisquam consectetur ccumsan ipsum velit culpa charms of pleasure of the moment.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos reici endis cum aliquid quam, consequatur, quisquam consectetur ccumsan ipsum velit culpa charms of pleasure of the moment.
+                                    Lorem ipsum   dolor sit amet, consectetur adipisicing elit. Quos reici endis cum aliquid quam, consequatur, quisquam consectetur ccumsan ipsum velit culpa charms of pleasure of the moment.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos reici endis cum aliquid quam, consequatur, quisquam consectetur ccumsan ipsum velit culpa charms of pleasure of the moment.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos reici endis cum aliquid quam, consequatur, quisquam consectetur ccumsan ipsum velit culpa charms of pleasure of the moment.
                                 </div>
                             </div>
                         </div>
